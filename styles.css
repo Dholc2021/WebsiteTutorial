@@ -4,6 +4,10 @@ body {
     margin: 0px;
     background-color: #040a2d;
   }
+
+  .coming-soon {
+    color: #08fdd8;
+  }
   
   .container {
     display: grid;
