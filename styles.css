@@ -73,6 +73,7 @@ body {
      *::after {
          margin: 0;
          padding: 0;
+         right: 0;
          box-sizing: border-box;
      }
      .neon-button {
@@ -145,6 +146,7 @@ body {
         line-height: 45px;
         letter-spacing: -3px;
         position: relative;
+        margin-right: 600px;
     }
     .text-zone h1::before{
         content: '<h1>';
