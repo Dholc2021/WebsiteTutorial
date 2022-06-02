@@ -1,6 +1,6 @@
 
 body {
-    font-family: "Lato", sans-serif;
+    font-family: 'Yellowtail', cursive;
     margin: 0px;
     background-color: #040a2d;
   }
@@ -29,8 +29,7 @@ body {
   .nav-wrapper > .right-side {
     font-size: 2em;
     color: #08fdd8;
-    font-family: 'Righteous', cursive;
-}
+    font-family: 'Yellowtail', cursive;}
 
 
 .nav-link-wrapper {
@@ -278,13 +277,13 @@ body {
     color: #08fdd8;
     margin-bottom: 30px;
 }
-.text-zone-2 p{
-    font-size: 25px;
+.text-zone-2 {
+    font-size: 2em;
     line-height: 1.5;
     color: #a2a2a3;
 }
 .fake-big-2{
-    font-size: 12rem;
+    font-size: 4em;
     font-weight: 300;
     position: absolute;
     color: #2d2d2e;
